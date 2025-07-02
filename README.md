@@ -62,5 +62,5 @@ _B.Sc. Computer Science | Cloud & DevOps Enthusiast_
 
 ## 📌 License
 
-This project is released under the [MIT License](LICENSE).
+This project is released under the [MIT License](License).
 
